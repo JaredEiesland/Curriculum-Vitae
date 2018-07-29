@@ -34,7 +34,16 @@
             <li>Directed specific or complex tickets to appropriate subject matter experts, or researched with development to determine appropriate solutions based on system and business need.</li>
             <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
           </ul>
-
+        <h3>CORNERSTONE TAX SERVICE INC</h3>
+          <p></p>
+          <ul>
+            <li>a</li>
+            <li>b</li>
+            <li>c</li>
+            <li>d</li>
+            <li>e</li>
+          </ul>
+    
 
    <h1>Education</h1>
     <p>Place all the education here</p>
