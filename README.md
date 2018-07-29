@@ -35,13 +35,15 @@
             <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
           </ul>
         <h3>CORNERSTONE TAX SERVICE INC</h3>
-          <p></p>
+          <p>Licensed Tax Preparer</p>
           <ul>
-            <li>a</li>
-            <li>b</li>
-            <li>c</li>
-            <li>d</li>
-            <li>e</li>
+            <li>Interviewed clients with directed questioning to assist in tax return preparation.</li>
+            <li>Answered client, and prospective client questions regarding income taxes in general or specifically.</li>
+            <li>Reviewed tax forms prepared by other firm members for accuracy and logic flow.</li>
+            <li>Prepared and filed income tax returns for individuals and from financial statements for small Corporations.</li>
+            <li>Prepared and maintained payroll journals for clients.</li>
+            <li>Entered and sent pay stubs to clients’ employees.</li>
+            <li>Created and mailed quarterly and annual forms.</li>
           </ul>
     
 
