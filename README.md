@@ -13,7 +13,7 @@
             <li>Reviewed digital systems and physical processes for possible improvements in efficiency or adherence to city and county codes, as well as state and federal regulations. </li>
           </ul> 
       <h3>DELTEK INC.</h3>
-        <p>Vision System and Business Consultant.</p>
+         <p><u>Vision System and Business Consultant.</u></p>
          <ul>
             <li>Traveled to client locations, mostly in North America, or met with clients remotely for shorter engagements.</li>
             <li>Reviewed client processes and controls for recommendations both in the software and in their business practices.</li>
@@ -21,21 +21,21 @@
             <li>Reviewed and responded to client issues with the application as they arise.</li>
             <li>Developed custom scripts for consideration by development.</li>
            </ul>
-          <p>Vision Training Consultant</p>
+          <p><u>Vision Training Consultant</u></p>
           <ul>
             <li>Trained end users on daily activities in Vision application, either in conference style or recorded. Tailored to the clients processes and controls.</li>
             <li>Trained Project Managers, Principals, and Project Accountants on data entry, review, and retrieval from Vision application, including project profitability, progress and value added.</li>
             <li>Trained Financial Accountants and Management on general ledger area of Vision, the basics of batch processing, and the concepts behind implicit account selection.</li>
             <li>Trained Management and Human resources on review and reporting of employee data, including utilization.</li> 
            </ul>
-          <p>Vision Customer Care Analyst</p>
+          <p><u>Vision Customer Care Analyst</u></p>
           <ul>
             <li>Received and replied to customer issues and inquiries using a custom designed Oracle ticketing system, through email, instant messaging, or with a phone call.</li>
             <li>Directed specific or complex tickets to appropriate subject matter experts, or researched with development to determine appropriate solutions based on system and business need.</li>
             <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
           </ul>
         <h3>CORNERSTONE TAX SERVICE INC</h3>
-          <p>Licensed Tax Preparer</p>
+          <p><u>Licensed Tax Preparer</u></p>
           <ul>
             <li>Interviewed clients with directed questioning to assist in tax return preparation.</li>
             <li>Answered client, and prospective client questions regarding income taxes in general or specifically.</li>
