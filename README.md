@@ -15,6 +15,12 @@
 <h3>DELTEK INC.</h3>
 <p>Vision System and Business Consultant.</p>
 <ul>
+  <li>Travel to client locations, mostly in North America, or meet with clients remotely for shorter engagements.</li>
+<li>Review client processes and controls for recommendations both in the software and in their business practices.</li>
+<li>Design and configure Vision software based on client needs.</li>
+<li>Review and respond to client issues with the application as they arise.</li>
+<li>Develop custom scripts for consideration by development.</li>
+
   
 
 
