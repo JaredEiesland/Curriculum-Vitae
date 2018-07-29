@@ -60,18 +60,24 @@
         <h3>HOME DEPOT INC</h3>
           <p><strong>Merchandising Associate and Vendor Liaison</strong></p>
           <ul>
-            <li></li>
-            <li></li>
+            <li>Traveled to and synchronized store displays among all stores in Oregon districts.</li>
+            <li>Communicated with vendors to ensure display and merchandise inventory met contract requirements.</li>
+            <li>Trained store employees on shelf maintenance and vendor contracts requirements.</li>
+            <li>Coordinated with store management on resets and rebuilds of displays and product placements. </li>
           </ul>
             <p><strong>Receiving Supervisor and Hazmat Hander</strong></p>
           <ul>
-            <li></li>
-            <li></li>
+            <li>Trained employees on lift equipment.</li>
+            <li>Maintained safety maintenance logs for lift equipment and hazmat supplies.</li>
+            <li>Scheduled and coordinated trucking schedules to ensure proper staffing and inventory levels.</li>
+            <li>Operated lift equipment and unloaded trucks.</li>
           </ul>
             <p><strong>Head Cashier and Front End Supervisor</strong></p>
           <ul>
-            <li></li>
-            <li></li>
+            <li>Scheduled cashiers to maintain staffing levels as needed by store volume and meet legal requirements as per applicable laws.</li>
+            <li>Maintained front end security devices and logs.</li>
+            <li>Trained new cashiers and lot associates on loading customer vehicles and operating registers. </li>
+            <li>Audit cashier and self-check tills daily for review by bookkeeping. </li>
           </ul>
             
    <h1><i>Education</I></h1>
