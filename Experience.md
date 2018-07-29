@@ -1,7 +1,6 @@
-# Jared Eiesland
+# Jared Eiesland - Experience
 <html>
   <Body>
-    <h1><i>Experiance</i></h1>
       <h3>CITY OF PORTLAND OREGON</h3>
           <p><strong>Revenue Tax Specialist I</strong></p>
           <ul>
