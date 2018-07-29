@@ -2,8 +2,8 @@
 <html>
   <Body>
     <h1>Experiance</h1>
-      <h2>CITY OF PORTLAND OREGON</h2>
-       <h4>Revenue Tax Specialist I</h4>
+      <h3>CITY OF PORTLAND OREGON</h3>
+       <p>Revenue Tax Specialist I</p>
           <ul>
             <li> Received and ensured accurate routing of incoming mail and sorted according to relevance and department.</li>
             <li>Prescreened tax returns for compliance with Portland Business License Code. </li>
