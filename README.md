@@ -1,8 +1,11 @@
 # Jared Eiesland Curriculum-Vitae
 <html>
   <Body>
-    <h1>Jared Eiesland</h1>
-    <h2>Resume and Work Examples</h2>
-    <p>I'm learning html with GitHub Pages.</p>
+    <h1>Experiance</h1>
+    <p>Place all the experiance here</p>
+    
+    
+    <h2>Education</h2>
+    <p>Place all the education here</p>
     </body>
   </html>
