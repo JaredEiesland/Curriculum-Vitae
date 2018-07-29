@@ -1,4 +1,4 @@
-# Jared Eiesland Simplified Curriculum-Vitae
+# Jared Eiesland
 <html>
   <Body>
     <h1><i>Experiance</i></h1>
