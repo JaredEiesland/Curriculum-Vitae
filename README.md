@@ -20,7 +20,7 @@
 <li>Design and configure Vision software based on client needs.</li>
 <li>Review and respond to client issues with the application as they arise.</li>
 <li>Develop custom scripts for consideration by development.</li>
-
+  <p>Vision Training Consultant</p>
   
 
 
