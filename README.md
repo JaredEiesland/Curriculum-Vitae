@@ -11,8 +11,13 @@
             <li> Stored and kept organized all documents for the revenue bureau while in progress.</li>
             <li>Maintained equipment needed for operations, including cleaning and fulfilment of work requests for repairs or external maintenance.</li> 
             <li>Reviewed digital systems and physical processes for possible improvements in efficiency or adherence to city and county codes, as well as state and federal regulations. </li>
+    </ul> 
+<h3>DELTEK INC.</h3>
+<p>Vision System and Business Consultant.</p>
+<ul>
+  
 
-<h2>DELTEK INC.</h2>
+
 
    <h1>Education</h1>
     <p>Place all the education here</p>
