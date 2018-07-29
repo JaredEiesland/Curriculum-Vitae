@@ -45,8 +45,35 @@
             <li>Entered and sent pay stubs to clients’ employees.</li>
             <li>Created and mailed quarterly and annual forms.</li>
           </ul>
-    
-
+          <p><strong>Accounting Systems Consultant</strong></p> 
+          <ul>
+            <li>Traveled to clients’ locations to build, asses, or repair accounting systems and hardware.</li>
+            <li>Trained employees and managers on the use of accounting hardware and software.</li>
+            <li>Assisted in preparation of presentation material and perform backup speaker role for Data Retention and Responsibility continuing education seminars.</li> 
+          <ul>
+          <p><strong>Systems Administrator</strong></p>
+          <ul>
+            <li>Performed the general daily functions of a systems administrator.</li> 
+            <li>Upgraded and maintained network, workstations, and disaster recovery protections.</li> 
+            <li>Deployed new file server and telecom system for the office.</li>
+          </ul>
+        <h3>HOME DEPOT INC</h3>
+          <p><strong>Merchandising Associate and Vendor Liaison</strong></p>
+          <ul>
+            <li></li>
+            <li></li>
+          </ul>
+            <p><strong>Receiving Supervisor and Hazmat Hander</strong></p>
+          <ul>
+            <li></li>
+            <li></li>
+          </ul>
+            <p><strong>Head Cashier and Front End Supervisor</strong></p>
+          <ul>
+            <li></li>
+            <li></li>
+          </ul>
+            
    <h1><i>Education</I></h1>
     <p>Place all the education here</p>
     </body>
