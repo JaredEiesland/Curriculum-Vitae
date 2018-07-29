@@ -50,7 +50,7 @@
             <li>Traveled to clients’ locations to build, asses, or repair accounting systems and hardware.</li>
             <li>Trained employees and managers on the use of accounting hardware and software.</li>
             <li>Assisted in preparation of presentation material and perform backup speaker role for Data Retention and Responsibility continuing education seminars.</li> 
-          <ul>
+          </ul>
           <p><strong>Systems Administrator</strong></p>
           <ul>
             <li>Performed the general daily functions of a systems administrator.</li> 
