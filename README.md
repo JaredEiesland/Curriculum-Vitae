@@ -11,28 +11,29 @@
             <li> Stored and kept organized all documents for the revenue bureau while in progress.</li>
             <li>Maintained equipment needed for operations, including cleaning and fulfilment of work requests for repairs or external maintenance.</li> 
             <li>Reviewed digital systems and physical processes for possible improvements in efficiency or adherence to city and county codes, as well as state and federal regulations. </li>
-    </ul> 
-<h3>DELTEK INC.</h3>
-<p>Vision System and Business Consultant.</p>
-<ul>
-  <li>Traveled to client locations, mostly in North America, or met with clients remotely for shorter engagements.</li>
-  <li>Reviewed client processes and controls for recommendations both in the software and in their business practices.</li>
-  <liDesigned and configured Vision software based on client needs.</li>
-  <li>Reviewed and responded to client issues with the application as they arise.</li>
-  <li>Developed custom scripts for consideration by development.</li>
-    </ul>
-  <p>Vision Training Consultant</p>
-  <li>Trained end users on daily activities in Vision application, either in conference style or recorded. Tailored to the clients processes and controls.</li>
-  <li>Trained Project Managers, Principals, and Project Accountants on data entry, review, and retrieval from Vision application, including project profitability, progress and value added.</li>
-  <li>Trained Financial Accountants and Management on general ledger area of Vision, the basics of batch processing, and the concepts behind implicit account selection.</li>
-  <li>Trained Management and Human resources on review and reporting of employee data, including utilization.</li> 
-    </ul>
-  <p>Vision Customer Care Analyst</p>
-  <ul>
-    <li>Received and replied to customer issues and inquiries using a custom designed Oracle ticketing system, through email, instant messaging, or with a phone call.</li>
-<li>Directed specific or complex tickets to appropriate subject matter experts, or researched with development to determine appropriate solutions based on system and business need.</li>
-<li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
-  </ul>
+          </ul> 
+      <h3>DELTEK INC.</h3>
+        <p>Vision System and Business Consultant.</p>
+         <ul>
+            <li>Traveled to client locations, mostly in North America, or met with clients remotely for shorter engagements.</li>
+            <li>Reviewed client processes and controls for recommendations both in the software and in their business practices.</li>
+            <li>Designed and configured Vision software based on client needs.</li>
+            <li>Reviewed and responded to client issues with the application as they arise.</li>
+            <li>Developed custom scripts for consideration by development.</li>
+           </ul>
+          <p>Vision Training Consultant</p>
+          <ul>
+            <li>Trained end users on daily activities in Vision application, either in conference style or recorded. Tailored to the clients processes and controls.</li>
+            <li>Trained Project Managers, Principals, and Project Accountants on data entry, review, and retrieval from Vision application, including project profitability, progress and value added.</li>
+            <li>Trained Financial Accountants and Management on general ledger area of Vision, the basics of batch processing, and the concepts behind implicit account selection.</li>
+            <li>Trained Management and Human resources on review and reporting of employee data, including utilization.</li> 
+           </ul>
+          <p>Vision Customer Care Analyst</p>
+          <ul>
+            <li>Received and replied to customer issues and inquiries using a custom designed Oracle ticketing system, through email, instant messaging, or with a phone call.</li>
+            <li>Directed specific or complex tickets to appropriate subject matter experts, or researched with development to determine appropriate solutions based on system and business need.</li>
+            <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
+          </ul>
 
 
    <h1>Education</h1>
