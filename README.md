@@ -5,7 +5,7 @@
     <p>Place all the experiance here</p>
     
     
-    <h2>Education</h2>
+   <h2>Education</h2>
     <p>Place all the education here</p>
     </body>
   </html>
