@@ -47,7 +47,7 @@
           </ul>
     
 
-   <h1>Education</h1>
+   <h1><i>Education</I></h1>
     <p>Place all the education here</p>
     </body>
   </html>
