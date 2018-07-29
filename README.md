@@ -32,7 +32,7 @@
     <li>Received and replied to customer issues and inquiries using a custom designed Oracle ticketing system, through email, instant messaging, or with a phone call.</li>
 <li>Directed specific or complex tickets to appropriate subject matter experts, or researched with development to determine appropriate solutions based on system and business need.</li>
 <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
-
+  </ul>
 
 
    <h1>Education</h1>
