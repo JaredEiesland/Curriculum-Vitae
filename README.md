@@ -1,8 +1,8 @@
 # Jared Eiesland Simplified Curriculum-Vitae
 <html>
   <Body>
-    <h2>Experiance</h2>
-    <h4>CITY OF PORTLAND OREGON</h4>
+    <h1>Experiance</h1>
+    <h3>CITY OF PORTLAND OREGON</h3>
     <p>Place all the experiance here</p>
     
     
