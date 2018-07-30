@@ -16,7 +16,7 @@
             <li>Enterprise Resource Planning Systems</li>
             <li>Accounting Information Systems</li>
             <li>Visual Basic and the Dot Net Framework</li>
-            <li>Communication in groups 
+            <li>Communication in groups </li>
             <li>Digital correspondence</li>
             <li>Project Management</li>
             <li>Cost and Financial Accounting</li>
@@ -25,7 +25,28 @@
             <li>Auditing</li>
           </ul> 
 
+<h2>Masters of Business Administration in Business Analytics.</h2>
+ <p><strong>Southern Oregon University</strong><br />Graduation Expected December 2019<br /> 
 
+<!--
+
+Classes Include but not limited to:</p>
+          <ul>
+            <li>Marketing Management and Strategies</li>
+            <li>Strategic Operations Management</li>
+            <li>Information Systems</li>
+            <li>Managerial Accounting for Decision Making</li>
+            <li>Graduate Research Project</li>
+            <li>Economic Analysis</li>
+            <li>Legal and Ethical Issues in Business and Management</li>
+            <li>Advanced Organizational Behavior</li>
+            <li>Financial Management Practices</li> 
+            <li>Advanced Management Information Systems</li>
+            <li>Building Decision-Making and Business Analysis Models Using Excel</li>
+            <li>Using GIS in Business</li>
+            </ul> 
+
+-->
 
 
 
