@@ -1,7 +1,7 @@
 # Jared Eiesland
 <html>
   <Body>
-    <h1>[Experience](../main/Experience.md)</h1>
-     
+    <h1>[Experience](./Experience.md)</h1>
+    <p>[Experience](./Experience.md)</p>
    </body>
   </html>
