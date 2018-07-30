@@ -2,7 +2,7 @@
 <html>
   <Body>
       <h2>Bachelors of Science in Business Administration: Accounting</h2>
- <p><strong>Portland State University.</strong><br />Graduated December 2015<br /> Classes Include but not limited to:</p>
+ <p><strong>Portland State University.</strong><br />Graduated December 2015<br /> <br />Classes Include but not limited to:</p>
           <ul>
             <li>Business Administration </li>
             <li>Finance for individuals</li>
