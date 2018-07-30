@@ -1,7 +1,7 @@
 # Jared Eiesland - Experience
 <html>
   <Body>
-      <h3>CITY OF PORTLAND OREGON</h3>
+      <h2>CITY OF PORTLAND OREGON</h2>
           <p><strong>Revenue Tax Specialist I</strong></p>
           <ul>
             <li> Received and ensured accurate routing of incoming mail and sorted according to relevance and department.</li>
@@ -11,7 +11,7 @@
             <li>Maintained equipment needed for operations, including cleaning and fulfilment of work requests for repairs or external maintenance.</li> 
             <li>Reviewed digital systems and physical processes for possible improvements in efficiency or adherence to city and county codes, as well as state and federal regulations. </li>
           </ul> 
-      <h3>DELTEK INC.</h3>
+      <h2>DELTEK INC.</h2>
          <p><strong>Vision System and Business Consultant.</strong></p>
          <ul>
             <li>Traveled to client locations, mostly in North America, or met with clients remotely for shorter engagements.</li>
@@ -33,7 +33,7 @@
             <li>Directed specific or complex tickets to appropriate subject matter experts, or researched with development to determine appropriate solutions based on system and business need.</li>
             <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
           </ul>
-        <h3>CORNERSTONE TAX SERVICE INC</h3>
+        <h2>CORNERSTONE TAX SERVICE INC</h2>
           <p><strong>Licensed Tax Preparer</strong></p>
           <ul>
             <li>Interviewed clients with directed questioning to assist in tax return preparation.</li>
@@ -56,7 +56,7 @@
             <li>Upgraded and maintained network, workstations, and disaster recovery protections.</li> 
             <li>Deployed new file server and telecom system for the office.</li>
           </ul>
-        <h3>HOME DEPOT INC</h3>
+        <h2>HOME DEPOT INC</h2>
           <p><strong>Merchandising Associate and Vendor Liaison</strong></p>
           <ul>
             <li>Traveled to and synchronized store displays among all stores in Oregon districts.</li>
