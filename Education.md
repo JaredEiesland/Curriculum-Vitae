@@ -34,7 +34,12 @@
 
 <h2>Masters of Business Administration in Business Analytics.</h2>
  <p><strong>Southern Oregon University</strong><br />Graduation Expected December 2019<br /> 
-
+        
+   <p><img style="padding: 0 450px; float: right;" 
+            src ="https://i.imgur.com/WG5GFXT.png" 
+            width="300" height="100"
+            ALIGN="Right"/></p>
+    
 <!-- (THIS IS THE START OF THE COMMENT OUT AREA)
 
 Classes Include but not limited to:</p>
