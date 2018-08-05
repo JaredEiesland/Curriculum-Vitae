@@ -17,6 +17,7 @@
             <li>Maintained equipment needed for operations, including cleaning and fulfilment of work requests for repairs or external maintenance.</li> 
             <li>Reviewed digital systems and physical processes for possible improvements in efficiency or adherence to city and county codes, as well as state and federal regulations. </li>
           </ul> 
+          </br>
       <h2>DELTEK INC.</h2>
             
    <p><img style="padding: 0 450px; float: right;" 
