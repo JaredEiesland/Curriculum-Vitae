@@ -2,7 +2,7 @@
 <html>
   <body>
   
-   <a href="https://github.com/jaredeiesland/Curriculum-Vitae/blob/master/Certifications.md#jared-eiesland---certifications" align="center"><img   
+   <a align="center" href="https://github.com/jaredeiesland/Curriculum-Vitae/blob/master/Certifications.md#jared-eiesland---certifications" ><img   
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="400" height="200"
             align="middle">         </a>     
