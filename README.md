@@ -14,7 +14,7 @@
             align="middle">         </p>    
              </br>
               </br>
-   <p align="center"><img style="padding: 0 15px; float: middle;" 
+   <p align="center"><img
             src ="https://i.imgur.com/Uai8sk0.jpg" 
             width="300" height="200"
            align="middle">          </p>
