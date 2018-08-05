@@ -5,7 +5,7 @@
    <p><img style="padding: 0 450px; float: right;" 
             src ="https://i.imgur.com/Uai8sk0.jpg" 
             width="300" height="200"
-            ALIGN="Right"/></p>
+            ALIGN="Left"/></p>
      
     
     
