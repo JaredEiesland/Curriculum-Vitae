@@ -2,13 +2,13 @@
 <html>
   <body>
   
-   <p align="center"><img style="padding: 0 15px; float: middle;"    
+   <p align="center"><img   
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="400" height="200"
             align="middle">         </p>     
              </br>
              </br>
-   <p align="center"><img style="padding: 0 15px; float: middle;" 
+   <p align="center"><img
             src ="https://i.imgur.com/pI9Yf3d.jpg" 
             width="600" height="200"
             align="middle">         </p>    
