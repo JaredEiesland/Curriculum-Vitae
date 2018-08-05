@@ -12,6 +12,12 @@
             <li>Reviewed digital systems and physical processes for possible improvements in efficiency or adherence to city and county codes, as well as state and federal regulations. </li>
           </ul> 
       <h2>DELTEK INC.</h2>
+            
+   <p><img style="padding: 0 450px; float: right;" 
+            src ="https://i.imgur.com/ecFP6u0.png" 
+            width="300" height="100"
+            ALIGN="Right"/></p>
+    
          <p><strong>Vision System and Business Consultant.</strong></p>
          <ul>
             <li>Traveled to client locations, mostly in North America, or met with clients remotely for shorter engagements.</li>
