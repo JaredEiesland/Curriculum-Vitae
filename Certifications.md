@@ -23,6 +23,6 @@
 
 
 
-<p><img src ="https://i.imgur.com/gZwoV5C.png" width="140" height="106"/></p>
+<p><img style="padding: 0 15px; float: right;" src ="https://i.imgur.com/gZwoV5C.png" width="140" height="106"/></p>
 </body>
 </html>
