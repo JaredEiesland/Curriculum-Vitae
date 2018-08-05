@@ -46,8 +46,15 @@
             <li>Directed specific or complex tickets to appropriate subject matter experts, or researched with development to determine appropriate solutions based on system and business need.</li>
             <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
           </ul>
+          </br>
         <h2>CORNERSTONE TAX SERVICE INC</h2>
-          <p><strong>Licensed Tax Preparer</strong></p>
+        
+   <p><img style="padding: 0 450px; float: right;" 
+            src ="https://i.imgur.com/0fLrzTu.jpg.jpg" 
+            width="300" height="80"
+            ALIGN="Right"/></p>
+    
+   <p><strong>Licensed Tax Preparer</strong></p>
           <ul>
             <li>Interviewed clients with directed questioning to assist in tax return preparation.</li>
             <li>Answered client, and prospective client questions regarding income taxes in general or specifically.</li>
@@ -69,6 +76,7 @@
             <li>Upgraded and maintained network, workstations, and disaster recovery protections.</li> 
             <li>Deployed new file server and telecom system for the office.</li>
           </ul>
+          </br>
         <h2>HOME DEPOT INC</h2>
           <p><strong>Merchandising Associate and Vendor Liaison</strong></p>
           <ul>
