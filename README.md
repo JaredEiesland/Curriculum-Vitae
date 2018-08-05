@@ -5,12 +5,12 @@
    <p><img style="padding: 0 15px; float: left;" 
             src ="https://i.imgur.com/Uai8sk0.jpg" 
             width="150" height="100"
-            ALIGN="Left"/>    </p>
+            ALIGN="Left"/>          </p>
      
    <p><img style="padding: 0 15px; float: Left;" 
             src ="https://i.imgur.com/pI9Yf3d.jpg" 
             width="300" height="100"
-            ALIGN="Left"/>   </p>
+            ALIGN="Left"/>         </p>
   
    <p><img style="padding: 0 15px; float: Left;" 
             src ="https://i.imgur.com/JZI2hPi.gif" 
