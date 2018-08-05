@@ -2,10 +2,10 @@
 <html>
   <body style="text-align: center;>
   
-   <p><center><img style="padding: 0 15px; float: middle;" 
+   <p><img style="padding: 0 15px; float: middle;" 
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="400" height="200"
-                   align="middle"></center></p>
+                   align="middle"></p>
             
    <p><img style="padding: 0 15px; float: middle;" 
             src ="https://i.imgur.com/pI9Yf3d.jpg" 
