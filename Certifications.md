@@ -17,7 +17,7 @@
 <br />
     <p><img style="padding: 0 15px; float: right;" 
             src ="https://i.imgur.com/wgpZdne.png" 
-            width="1900" height="190"
+            width="190" height="190"
             ALIGN="Right"/></p>
             
 <h2>Certified Associate in Project Management</h2>
