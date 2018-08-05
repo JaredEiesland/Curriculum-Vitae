@@ -12,7 +12,7 @@
               margin-right: auto;
               z-index: 1;
               text-align:center;
-              "aligncenter";
+              "aligncenter"
               "></p>  
             
             
