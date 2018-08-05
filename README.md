@@ -2,17 +2,17 @@
 <html>
   <Body>
                   
-   <p><img style="padding: 0 450px; float: right;" 
+   <p><img style="padding: 0 15px; float: right;" 
             src ="https://i.imgur.com/Uai8sk0.jpg" 
             width="150" height="100"
             ALIGN="Left"/></p>
      
-   <p><img style="padding: 0 450px; float: right;" 
+   <p><img style="padding: 0 15px; float: right;" 
             src ="https://i.imgur.com/pI9Yf3d.jpg" 
             width="300" height="100"
             ALIGN="Center"/></p>
   
-   <p><img style="padding: 0 450px; float: right;" 
+   <p><img style="padding: 0 15px; float: right;" 
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="200" height="100"
             ALIGN="Right"/></p>
