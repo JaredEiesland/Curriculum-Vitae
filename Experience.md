@@ -47,7 +47,7 @@
             <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
           </ul>
           </br>
-        <h2>CORNERSTONE TAX SERVICE INC</h2>
+        <h2>CORNERSTONE TAX SERVICEs INC</h2>
         
    <p><img style="padding: 0 450px; float: right;" 
             src ="https://i.imgur.com/0fLrzTu.jpg.jpg" 
@@ -78,7 +78,13 @@
           </ul>
           </br>
         <h2>HOME DEPOT INC</h2>
-          <p><strong>Merchandising Associate and Vendor Liaison</strong></p>
+                
+   <p><img style="padding: 0 450px; float: right;" 
+            src ="https://i.imgur.com/R2uqjpA.jpg" 
+            width="110" height="110"
+            ALIGN="Right"/></p>
+    
+   <p><strong>Merchandising Associate and Vendor Liaison</strong></p>
           <ul>
             <li>Traveled to and synchronized store displays among all stores in Oregon districts.</li>
             <li>Communicated with vendors to ensure display and merchandise inventory met contract requirements.</li>
