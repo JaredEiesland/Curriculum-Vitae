@@ -1,12 +1,12 @@
 # Jared Eiesland
 <html>
-  <body style="text-align: center;>
+  <body>
   
-   <img style="padding: 0 15px; float: middle;" 
+   <p><img style="padding: 0 15px; float: middle; text-align: center;" 
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="400" height="200"
-                   align="middle">
-            "
+            align="middle"></p>  
+            
    <p><img style="padding: 0 15px; float: middle;" 
             src ="https://i.imgur.com/pI9Yf3d.jpg" 
             width="600" height="200"
