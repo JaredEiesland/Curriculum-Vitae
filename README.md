@@ -1,6 +1,6 @@
 # Jared Eiesland
 <html>
-  <body>
+  <body style="text-align: center;">
   
    <p><img  
             src ="https://i.imgur.com/JZI2hPi.gif" 
