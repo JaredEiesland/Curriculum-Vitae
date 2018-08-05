@@ -2,7 +2,13 @@
 <html>
   <Body>
       <h2>CITY OF PORTLAND OREGON</h2>
-          <p><strong>Revenue Tax Specialist I</strong></p>
+               
+   <p><img style="padding: 0 450px; float: right;" 
+            src ="https://i.imgur.com/WvRcYS7.jpg" 
+            width="100" height="100"
+            ALIGN="Right"/></p>
+    
+   <p><strong>Revenue Tax Specialist I</strong></p>
           <ul>
             <li> Received and ensured accurate routing of incoming mail and sorted according to relevance and department.</li>
             <li>Prescreened tax returns for compliance with Portland Business License Code. </li>
@@ -15,7 +21,7 @@
             
    <p><img style="padding: 0 450px; float: right;" 
             src ="https://i.imgur.com/ecFP6u0.png" 
-            width="300" height="100"
+            width="300" height="90"
             ALIGN="Right"/></p>
     
   <p><strong>Vision System and Business Consultant.</strong></p>
