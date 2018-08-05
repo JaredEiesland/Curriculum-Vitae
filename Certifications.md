@@ -15,7 +15,7 @@
 <br />
 <br />
 <br />
-    <p><img style="padding: 0 150px; float: right;" 
+    <p><img style="padding: 0 450px; float: right;" 
             src ="https://i.imgur.com/wgpZdne.png" 
             width="100" height="100"
             ALIGN="Right"/></p>
