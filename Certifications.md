@@ -1,10 +1,12 @@
 # Jared Eiesland - Certifications
 <html>
   <Body>
-      <h2>Enrolled Agent</h2>
     <p><img style="padding: 0 15px; float: right;" src ="https://i.imgur.com/gZwoV5C.png" 
             width="360" height="90"
             ALIGN="Right"/></p>
+    
+      <h2>Enrolled Agent</h2>
+    
  <p><strong>Authorized to Practice Before the Internal Revenue Service</strong><br />Expires March 31, 2020<br /> 
  <br />Enrolled Agents (EAs) are federally-licensed tax practitioners who may represent taxpayers before the IRS when it comes to  collections, audits and appeals. As authorized by the Department of Treasury's Circular 230 regulations, EAs are granted unlimited practice rights to represent taxpayers before IRS and are authorized to advise, represent, and prepare tax returns for individuals, partnerships, corporations, estates, trusts, and any entities with tax-reporting requirements. Enrolled agents are the only federally-licensed tax practitioners who specialize in taxation and have unlimited rights to represent taxpayers before the IRS.
  <br /> For more information refer to the 
