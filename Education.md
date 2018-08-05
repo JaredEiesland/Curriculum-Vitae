@@ -1,13 +1,13 @@
 # Jared Eiesland - Education
 <html>
   <Body>
-    
+
+   <h2>Bachelors of Science in Business Administration: Accounting</h2>
+        
    <p><img style="padding: 0 450px; float: right;" 
             src ="https://i.imgur.com/jpyYfWZ.png" 
             width="300" height="150"
             ALIGN="Right"/></p>
-    
-   <h2>Bachelors of Science in Business Administration: Accounting</h2>
     
  <p><strong>Portland State University.</strong><br />Graduated December 2015<br /> <br />Classes Include but not limited to:</p>
           <ul>
