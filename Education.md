@@ -5,7 +5,7 @@
     
    <p><img style="padding: 0 450px; float: right;" 
             src ="https://i.imgur.com/jpyYfWZ.png" 
-            width="320" height="100"
+            width="320" height="150"
             ALIGN="Right"/></p>
     
  <p><strong>Portland State University.</strong><br />Graduated December 2015<br /> <br />Classes Include but not limited to:</p>
