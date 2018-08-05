@@ -16,7 +16,7 @@
    <br>
    <br>
 
-    <p align="center" > <a href="https://github.com/jaredeiesland/Curriculum-Vitae/blob/master/Education.md#jared-eiesland---education" ><img 
+   <p align="center" > <a href="https://github.com/jaredeiesland/Curriculum-Vitae/blob/master/Education.md#jared-eiesland---education" ><img 
             src ="https://i.imgur.com/zH9XTD8.jpg" 
             width="360" height="170"
            align="middle">          </a></p> 
