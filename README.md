@@ -12,8 +12,8 @@
               margin-right: auto;
               z-index: 1;
               text-align:center;
-              "aligncenter"
-              "></p>  
+              ">
+            class="aligncenter"</p>  
             
             
    <p><img style="padding: 0 15px; float: middle;" 
