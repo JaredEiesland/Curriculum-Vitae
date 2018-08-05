@@ -15,7 +15,11 @@
 <br />
 <br />
 <br />
-
+    <p><img style="padding: 0 15px; float: right;" 
+            src ="https://i.imgur.com/wgpZdne.png" 
+            width="100" height="100"
+            ALIGN="Right"/></p>
+            
 <h2>Certified Associate in Project Management</h2>
  <p><strong>Certified by the Project Management Institute</strong><br />Expires March 30, 2023<br /> 
  <br />Certified Associate in Project Management (CAPM) is an international credential offered by the Project Management Institute (PMI). The CAPM is an entry-level certification for project practitioners. Designed for those with less project experience than PMP, the CAPM is intended to demonstrate candidates' understanding of the fundamental knowledge, terminology and processes of effective project management
