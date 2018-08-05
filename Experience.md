@@ -18,7 +18,7 @@
             width="300" height="100"
             ALIGN="Right"/></p>
     
-         <p><strong>Vision System and Business Consultant.</strong></p>
+  <p><strong>Vision System and Business Consultant.</strong></p>
          <ul>
             <li>Traveled to client locations, mostly in North America, or met with clients remotely for shorter engagements.</li>
             <li>Reviewed client processes and controls for recommendations both in the software and in their business practices.</li>
