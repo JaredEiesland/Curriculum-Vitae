@@ -2,10 +2,10 @@
 <html>
   <body>
   
-   <a align="center" href="https://github.com/jaredeiesland/Curriculum-Vitae/blob/master/Certifications.md#jared-eiesland---certifications" ><img   
+   <p align="center" href="https://github.com/jaredeiesland/Curriculum-Vitae/blob/master/Certifications.md#jared-eiesland---certifications" ><img   
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="400" height="200"
-            align="middle">         </a>     
+            align="middle">         </p>     
              </br>
              </br>
    <p align="center"><img
