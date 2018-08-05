@@ -12,6 +12,9 @@
  <a href="https://www.naea.org/educating-america/what-enrolled-agent">National Association of Enrolled Agents</a>
  </p>
       
+<br />
+<br />
+<br />
 
 <h2>Certified Associate in Project Management</h2>
  <p><strong>Project Management Institute</strong><br />Expires March 30, 2023<br /> 
