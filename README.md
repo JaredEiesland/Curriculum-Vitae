@@ -7,6 +7,11 @@
             width="300" height="200"
             ALIGN="Left"/></p>
      
+   <p><img style="padding: 0 450px; float: right;" 
+            src ="https://i.imgur.com/pI9Yf3d.jpg" 
+            width="300" height="100"
+            ALIGN="Center"/></p>
+     
     
     
     
