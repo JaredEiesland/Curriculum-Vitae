@@ -5,7 +5,8 @@
    <p><img style="padding: 0 15px; float: middle;" 
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="400" height="200"
-            ALIGN="middle"/></p>
+            ALIGN="middle"
+            Class ="center"/></p>
             
    <p><img style="padding: 0 15px; float: middle;" 
             src ="https://i.imgur.com/pI9Yf3d.jpg" 
