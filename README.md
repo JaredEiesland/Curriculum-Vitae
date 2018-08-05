@@ -13,7 +13,7 @@
               z-index: 1;
               text-align:center;
               "
-            class="aligncenter"></p>  
+            class="marginauto"></p>  
             
             
    <p><img style="padding: 0 15px; float: middle;" 
