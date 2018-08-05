@@ -2,7 +2,7 @@
 <html>
   <body style="text-align: center;">
   
-   <p><img  
+   <center><p><img  
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="400" height="200"
             align="middle"
@@ -12,6 +12,7 @@
               margin-right: auto;
               z-index: 1;
               "></p>  
+            </center>
             
    <p><img style="padding: 0 15px; float: middle;" 
             src ="https://i.imgur.com/pI9Yf3d.jpg" 
