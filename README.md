@@ -2,19 +2,10 @@
 <html>
   <body>
   
-   <p><img  
+   <p><img style="padding: 0 15px; float: middle;"    
             src ="https://i.imgur.com/JZI2hPi.gif" 
             width="400" height="200"
-            align="middle"
-            style="
-              display: block;
-              margin-left: auto;
-              margin-right: auto;
-              z-index: 1;
-              text-align:center;
-              "
-            class="marginauto"
-           align="middle"></p>  
+            align="middle">         </p>     
             
             
    <p><img style="padding: 0 15px; float: middle;" 
