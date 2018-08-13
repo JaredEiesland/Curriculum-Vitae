@@ -47,7 +47,7 @@
             <li>Researched obscure issues, or rare configurations and tested results for clients or consultants. </li>
           </ul>
           </br>
-        <h2>CORNERSTONE TAX SERVICEs INC</h2>
+        <h2>CORNERSTONE TAX SERVICES INC</h2>
         
    <p><img style="padding: 0 450px; float: right;" 
             src ="https://i.imgur.com/0fLrzTu.jpg.jpg" 
