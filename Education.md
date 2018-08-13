@@ -9,7 +9,10 @@
             width="300" height="150"
             ALIGN="Right"/></p>
     
- <p><strong>Portland State University.</strong><br />Graduated December 2015<br /> <br />Classes Include but not limited to:</p>
+ <p><strong>Portland State University.</strong>
+  <br />Graduated December 2015 Cum Laude
+  <br /> 
+  <br />Classes Include but not limited to:</p>
           <ul>
             <li>Business Administration </li>
             <li>Finance for individuals</li>
