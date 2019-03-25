@@ -8,7 +8,24 @@
             width="100" height="100"
             ALIGN="Right"/></p>
     
-   <p><strong>Revenue Tax Specialist I</strong></p>
+     <p><strong>Business Systems Analyst II </strong></p>
+          <ul>
+            <li> RGather requirements, design project plan, and execute major changes to city revenue collection systems, including testing, data conversion, and training.</li>
+            <li>Administer custom tax collection data systems, including ETL using SQL, DOS Batch, and VB.</li>
+            <li>Design and query for custom reports as requested from city management or public records requests.  </li>
+            <li> Write proposals for changes to tax collection system based on city council decisions regarding taxes and fees for all individuals, rental owners, and businesses.</li>
+            <li>Reviewed digital systems and physical processes for possible improvements in efficiency or adherence to city and county codes, as well as state and federal regulations. </li>
+          </ul> 
+          </br>
+    
+    
+    
+    
+    
+    
+    
+    
+   <p><strong>Revenue Tax Specialist </strong></p>
           <ul>
             <li> Received and ensured accurate routing of incoming mail and sorted according to relevance and department.</li>
             <li>Prescreened tax returns for compliance with Portland Business License Code. </li>
